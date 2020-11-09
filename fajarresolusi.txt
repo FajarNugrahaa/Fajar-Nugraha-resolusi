@@ -1,5 +1,6 @@
 fajar resolusi
-- konsisten membuat progres dalam belajar pemrograman
+- konsisten membuat progres dalam belajar pemrograman Frontend Web Development
+  * belajar HTML
 - mendapat pekerjaan
 - mengatur gaya hidup dan pengeluaran
 - mengatur pola makan dan berolahraga
